@@ -5,6 +5,10 @@
     <img src="https://raw.githubusercontent.com/hi-sch/gengit/refs/heads/main/gengit.png" alt="GenGit Logo">
 </p>
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/hi-sch/gengit/refs/heads/main/screenshot.png" width="96%" alt="GenGit Screenshot">
+</p>
+
 ## ✨ Overview
 
 **GenGit** showcases the power of AI-assisted coding. This project demonstrates how artificial intelligence can be leveraged to build a functional Git client, aiming to streamline and enhance software development workflows.
